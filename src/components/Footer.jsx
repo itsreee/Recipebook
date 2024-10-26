@@ -5,7 +5,7 @@ const Footer = () => {
     <div style={{ height: '250px' }} className='text-white bg-primary pt-5 mt-5' id='foot'>
     <div className="d-flex justify-content-between">
       <div style={{ width: '400px' }} className="intro">
-        <h5 style={{fontFamily:"Afacad Flux"}}><i className='fa-solid fa-cart-shopping me-2'></i>RecipieBook</h5>
+        <h5 style={{fontFamily:"Afacad Flux"}}><i className='fa-solid fa-utensils me-2'></i>RecipieBook</h5>
         <p>Code liscenced, docs CC BY 3.0.</p>
         <p>Currently v5.3.2.</p>
       </div>
